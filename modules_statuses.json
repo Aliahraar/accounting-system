@@ -1,0 +1,7 @@
+{
+    "Accounting": true,
+    "Warehouse": true,
+    "Production": true,
+    "Sales": true,
+    "User": true
+}
